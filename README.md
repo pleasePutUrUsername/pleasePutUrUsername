@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pleasePutUrUsername
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning lua and css/java script
